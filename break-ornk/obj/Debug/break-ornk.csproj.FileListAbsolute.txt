@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\bin\Debug\break-ornk.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\bin\Debug\break-ornk.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\bin\Debug\break-ornk.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break-ornk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break-ornk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break_ornk.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break_ornk.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break-ornk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break-ornk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break-ornk.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\break-ornk\break-ornk\obj\Debug\break-ornk.pdb
